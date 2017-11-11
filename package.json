@@ -1,0 +1,33 @@
+{
+  "name": "ws-radio",
+  "version": "1.0.0",
+  "description": "A lightweight universal WebSocket publish/subscribe wrapper: a single module for NodeJS and client JavaScript",
+  "main": "Radio.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZitRos/ws-radio.git"
+  },
+  "keywords": [
+    "radio",
+    "websocket",
+    "websockets",
+    "publish",
+    "subscribe",
+    "pub",
+    "sub",
+    "universal",
+    "module"
+  ],
+  "author": {
+    "name": "ZitRo",
+    "url": "https://nikita.tk"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZitRos/ws-radio/issues"
+  },
+  "homepage": "https://github.com/ZitRos/ws-radio#readme"
+}
