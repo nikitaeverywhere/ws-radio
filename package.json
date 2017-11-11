@@ -1,6 +1,6 @@
 {
   "name": "ws-radio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lightweight universal WebSocket publish/subscribe wrapper: a single module for NodeJS and client JavaScript",
   "main": "Radio.js",
   "scripts": {
